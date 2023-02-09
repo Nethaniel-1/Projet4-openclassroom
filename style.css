@@ -1,3 +1,6 @@
+*{
+    list-style-type: none;
+}
 body {
     margin: 0;
     padding: 0;
@@ -677,7 +680,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
