@@ -1053,6 +1053,7 @@ h4 {
 p.citation {
     font-size: 20px;
     font-weight: 500;
+    font-style: italic;
     /* color: #949494; */
     -webkit-text-stroke: 0.2px;
 }
@@ -1070,7 +1071,9 @@ color: gray;
 .nav > li:hover {
     color: lightgray;
 }
-
+.navbar-nav>li>a {
+    text-align: center;
+}
 img.img-responsive.portfolio-thumb {
     width: 583px;
 }
@@ -1083,6 +1086,13 @@ label {
     padding-bottom: 4px;
 }
 input {
-    width: 369px;
+    width: 358px;
 }
-
+@media (min-width: 768px){
+.col-sm-3 {
+    width: 10%;
+}
+}
+textarea#message {
+    width: 358px;
+}
