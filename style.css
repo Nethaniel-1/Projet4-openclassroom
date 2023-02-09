@@ -12,6 +12,13 @@ p.autor {
     font-size: 20px;
     color: #949494!important;
 }
+.nav > li {
+font-size: 19px;
+margin: 3px;
+margin-right: 22px;
+-webkit-text-stroke: 0.2px;
+color: gray;
+}
 body {
     margin: 0;
     padding: 0;
