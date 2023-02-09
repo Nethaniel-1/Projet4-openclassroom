@@ -19,6 +19,9 @@ margin-right: 22px;
 -webkit-text-stroke: 0.2px;
 color: gray;
 }
+.nav > li:hover {
+    color: lightgray;
+}
 body {
     margin: 0;
     padding: 0;
