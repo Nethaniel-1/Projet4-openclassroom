@@ -1078,3 +1078,7 @@ img.img-responsive.portfolio-thumb {
     display: inline-flex;
     margin: 30px;
 }
+label {
+    display: block;
+    padding-bottom: 4px;
+}
