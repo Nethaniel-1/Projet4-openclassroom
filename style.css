@@ -1082,3 +1082,10 @@ label {
     display: block;
     padding-bottom: 4px;
 }
+input {
+    width: 369px;
+}
+
+.row.row-no-gutters.social {
+    margin-left: 300px;
+}
