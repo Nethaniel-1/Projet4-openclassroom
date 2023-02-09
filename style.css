@@ -1,6 +1,17 @@
 *{
     list-style-type: none;
 }
+
+p.citation {
+    font-size: 20px;
+    font-weight: 500;
+    /* color: #949494; */
+    -webkit-text-stroke: 0.2px;
+}
+p.autor {
+    font-size: 20px;
+    color: #949494!important;
+}
 body {
     margin: 0;
     padding: 0;
