@@ -20,6 +20,11 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+.citation2{
+    color: #949494!important;
+    font-size: 18px;
+    -webkit-text-stroke: 0.2px;
+}
 
 a,
 button {
