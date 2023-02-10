@@ -1062,11 +1062,12 @@ p.autor {
     color: #949494!important;
 }
 .nav > li {
-font-size: 19px;
-margin: 3px;
-margin-right: 22px;
--webkit-text-stroke: 0.2px;
-color: gray;
+        font-size: 19px;
+        margin: 3px;
+        margin-right: 22px;
+        -webkit-text-stroke: 0.2px;
+        color: gray;
+        text-align: center;
 }
 .nav > li:hover {
     color: lightgray;
@@ -1096,9 +1097,7 @@ input {
     width: 34px;
 }
 }
-textarea#message {
-    width: 358px;
-}
+
 p.citation3 {
     font-size: 21px;
     color: #575757;
@@ -1144,3 +1143,11 @@ p.text-center {
 .nav > li:hover{
     color:#F3976C ;
 }
+.form-control {
+    border-color: rgba(0, 0, 0, .1);
+    box-shadow: none;
+    width: 202px;
+}
+ .col-sm-4 span{
+    font-size: 22px;
+ }
