@@ -1102,6 +1102,7 @@ textarea#message {
 p.citation3 {
     font-size: 21px;
     color: #575757;
+    margin-top: -72px;
 }
 button.bloc-button.btn.btn-lg.btn-block.cta-hero.btn-atomic-tangerine {
     margin-left: 20px;
@@ -1132,4 +1133,12 @@ p.text-center.mg-lg.tc-white.tight-width-whitespace {
     font-weight: bold;
     block-size: 19px;
     margin-top: -40px;
+}
+.col-sm-4 ul{
+    text-align: initial;
+    font-size: 24px;
+    -webkit-text-stroke: 0.5px;
+}
+p.text-center {
+    font-size: 14px;
 }
