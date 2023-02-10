@@ -1074,6 +1074,9 @@ color: gray;
 .navbar-nav>li>a {
     text-align: center;
 }
+.col-sm-12 {
+    text-align: center;
+}
 img.img-responsive.portfolio-thumb {
     width: 583px;
 }
@@ -1104,18 +1107,29 @@ button.bloc-button.btn.btn-lg.btn-block.cta-hero.btn-atomic-tangerine {
     margin-left: 20px;
     border-radius: 10px;
 }
-
-table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  
-  th, td {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-  }
-  
-  th {
-    background-color: #dddddd;
-  }
+/* bouton envoyer*/
+form#form_1 {
+    margin-left: 19px;
+}
+.btn-page-2 {
+    border-radius: 10px;
+    margin-left: 105px;
+}
+.tc-white {
+    color: white!important;
+}
+.max-w{
+    max-width: none;
+}
+#bloc-6{
+    width: none;
+}
+.hero-bloc-text {
+    font-size: 77px;
+}
+p.text-center.mg-lg.tc-white.tight-width-whitespace {
+    font-size: 17px;
+    font-weight: bold;
+    block-size: 19px;
+    margin-top: -40px;
+}
