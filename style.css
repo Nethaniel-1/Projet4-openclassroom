@@ -1139,3 +1139,6 @@ p.text-center.mg-lg.tc-white.tight-width-whitespace {
     font-size: 24px;
     -webkit-text-stroke: 0.5px;
 }
+p.text-center {
+    font-size: 14px;
+}
