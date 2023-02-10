@@ -828,7 +828,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.avif");
+    background-image: url("img/image-de-presentation.bmp");
 }
 
 @media (max-width: 1024px) {
@@ -1138,7 +1138,4 @@ p.text-center.mg-lg.tc-white.tight-width-whitespace {
     text-align: initial;
     font-size: 24px;
     -webkit-text-stroke: 0.5px;
-}
-p.text-center {
-    font-size: 14px;
 }
